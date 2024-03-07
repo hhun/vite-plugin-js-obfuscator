@@ -1,0 +1,16 @@
+{
+	"name": "vite-plugin-js-obfuscator",
+	"author": "Hhun",
+	"description": "vite-plugin-js-obfuscator",
+	"main": "src/index.js",
+	"scripts": {},
+	"keywords": [
+		"js-obfuscator",
+		"javascript-obfuscator"
+	],
+	"version": "0.0.1",
+	"license": "MIT",
+	"dependencies": {
+		"javascript-obfuscator": "^4.1.0"
+	}
+}
