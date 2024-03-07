@@ -8,17 +8,17 @@
 		"js-obfuscator",
 		"javascript-obfuscator"
 	],
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"license": "MIT",
 	"dependencies": {
 		"javascript-obfuscator": "^4.1.0"
 	},
-	"homepage": "https://github.com/hhun/vite-plugin-js-obfuscator.#readme",
+	"homepage": "https://github.com/hhun/vite-plugin-js-obfuscator#readme",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/hhun/vite-plugin-js-obfuscator.git"
 	},
 	"bugs": {
-		"url": "https://github.com/hhun/vite-plugin-js-obfuscator./issues"
+		"url": "https://github.com/hhun/vite-plugin-js-obfuscator/issues"
 	}
 }
